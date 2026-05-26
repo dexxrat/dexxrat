@@ -2,11 +2,9 @@
 
 **Java AQA Engineer | Building Test Automation with a Product Mindset**
 
-[![Linkedin: Bogdan Zenevich](https://img.shields.io/badge/-Bogdan%20Zenevich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bahdan-zenevich-62b6823bb/)](https://www.linkedin.com/in/bahdan-zenevich-62b6823bb/)
+[![Linkedin: Bahdan Zenevich](https://img.shields.io/badge/-Bogdan%20Zenevich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bahdan-zenevich-62b6823bb/)](https://www.linkedin.com/in/bahdan-zenevich-62b6823bb/)
 [![Telegram Badge](https://img.shields.io/badge/-dexxrat-26A5E4?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/dexxrat)](https://t.me/dexxrat)
 [![Gmail Badge](https://img.shields.io/badge/-itzenevich-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:itzenevich@gmail.com)](mailto:itzenevich@gmail.com)
-
----
 
 ## About Me 
 
@@ -14,9 +12,8 @@
 -  Built a **hybrid test automation framework** from scratch
 -  10 years of professional sports → discipline, teamwork, stress resistance
 
----
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Java 17, SQL, Maven
 - Selenide, Selenium WebDriver, REST Assured  
@@ -28,7 +25,6 @@
 - Spring Boot, React, TypeScript 
 - IntelliJ IDEA, Jira, Confluence
 
----
 
 ##  Project
 
@@ -39,9 +35,9 @@
 
 **Hybrid test automation framework** built from scratch:
 
-- ✅ 20+ tests (UI + API + DB)
-- ✅ Page Object Model, Selenide
-- ✅ REST Assured + JSON schema validation
-- ✅ JDBC + PostgreSQL in Docker
-- ✅ GitHub Actions CI/CD
-- ✅ Allure reports with screenshots
+-  20+ tests (UI + API + DB)
+-  Page Object Model, Selenide
+-  REST Assured + JSON schema validation
+-  JDBC + PostgreSQL in Docker
+-  GitHub Actions CI/CD
+-  Allure reports with screenshots
