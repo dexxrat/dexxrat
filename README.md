@@ -17,28 +17,17 @@
 ---
 
 ## 🛠️ Tech Stack
+Tech stack:
 
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Test Automation
-![Selenide](https://img.shields.io/badge/Selenide-00B400?style=for-the-badge&logo=selenium&logoColor=white)
-![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge)
-![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
-### Infrastructure & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Reporting & Documentation
-![Allure](https://img.shields.io/badge/Allure-FF7F50?style=for-the-badge&logo=qameta&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+    Java 17, SQL, Maven
+    Selenide, Selenium WebDriver, REST Assured ❤️
+    JUnit 5, TestNG
+    PostgreSQL, JDBC
+    Docker, GitHub Actions, Jenkins (basics)
+    Allure Framework, Postman, Swagger
+    Git, Linux, bash
+    Spring Boot, React, TypeScript (for full-stack perspective)
+    IntelliJ IDEA, Jira, Confluence
 
 ---
 
