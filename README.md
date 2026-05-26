@@ -2,9 +2,9 @@
 
 **Java AQA Engineer | Building Test Automation with a Product Mindset**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BogdanZenevich)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BogdanZenevich)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdan.zenevich@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahdan-zenevich-62b6823bb/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dexxrat)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itzenevich@gmail.com)
 
 ---
 
@@ -17,7 +17,6 @@
 ---
 
 ## 🛠️ Tech Stack
-Tech stack:
 
     Java 17, SQL, Maven
     Selenide, Selenium WebDriver, REST Assured ❤️
@@ -51,9 +50,6 @@ Tech stack:
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/BogdanZenevich)
-- 💬 [Telegram](https://t.me/BogdanZenevich)
-- 📧 [Email](mailto:bogdan.zenevich@email.com)
-
----
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/bahdan-zenevich-62b6823bb/)
+- 💬 [Telegram](https://t.me/dexxrat)
+- 📧 [Email](mailto:itzenevich@gmail.com)
