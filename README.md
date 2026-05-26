@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bogdan Zenevich
 
-**Junior Java AQA Engineer | Building Test Automation with a Product Mindset**
+**Java AQA Engineer | Building Test Automation with a Product Mindset**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BogdanZenevich)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BogdanZenevich)
