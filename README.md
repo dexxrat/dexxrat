@@ -12,10 +12,7 @@
 
 - 🎓 **BSUIR**, Software Engineering + Business Analysis (2nd year)
 - 🧪 Built a **hybrid test automation framework** from scratch
-- 🏗️ Developing an **AI-powered investment analyzer** (Spring Boot + ChatGPT API)
 - 🏀 10 years of professional sports → discipline, teamwork, stress resistance
-- 💡 Entrepreneurial background → I test like a product owner
-- 🎯 Goal: **Junior Java AQA Engineer** → Product Manager
 
 ---
 
@@ -61,38 +58,6 @@
 - ✅ GitHub Actions CI/CD
 - ✅ Allure reports with screenshots
 
-### 🤖 [AI-Investment Analyzer](https://github.com/dexxrat/ai-investment-analyzer)
-
-[![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-
-**Full-stack AI-powered investment portfolio analyzer** (in development):
-
-- 🔧 Backend: Spring Boot + PostgreSQL
-- 🧠 AI: ChatGPT API for risk analysis
-- 🎨 Frontend: React + TypeScript
-- 🧪 Full test automation suite planned
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dexxrat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dexxrat&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dexxrat&theme=tokyonight&hide_border=true)
-
----
-
-## 🎯 Currently Learning
-
-- [ ] Docker Compose multi-container setups
-- [ ] Advanced SQL (window functions, query optimization)
-- [ ] WireMock for API mocking
-- [ ] ISTQB Foundation Level certification
-- [ ] English B1 for technical interviews
-
 ---
 
 ## 📫 Let's Connect!
@@ -103,6 +68,3 @@
 
 ---
 
-> *"Quality is not an act, it is a habit." — Aristotle*
->
-> *Looking for a Junior Java AQA Engineer who tests like a product owner? Let's talk.*
