@@ -30,7 +30,7 @@
 
 ---
 
-##  Featured Projects
+##  Project
 
 ###  [Portfolio AQA Framework](https://github.com/dexxrat/portfolio-aqa)
 
